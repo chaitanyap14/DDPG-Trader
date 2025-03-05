@@ -1,6 +1,6 @@
-#RL Portfolio Optimization
+#DDPG Trader
 
 Status: Ongoing
 
 Description:
-This is a portfolio optimization model that uses reinforcement learning to assign weights to a portfolio of SPDR Sector ETFs to try and achieve above-market returns while managing risk.
+This is an algorithmic trading model that uses reinforcement learning to place orders and manage positions on natural gas futures.
